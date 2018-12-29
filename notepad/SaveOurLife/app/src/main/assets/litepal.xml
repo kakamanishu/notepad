@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value ="UserList"></dbname>
+    <version value="10"></version>
+    <!--更新一个次value++-->
+    <list>
+        <mapping class = "com.example.admin.saveourlife.UserList"></mapping>
+        <mapping class="com.example.admin.saveourlife.NotePad"></mapping>
+    </list>
+</litepal>
